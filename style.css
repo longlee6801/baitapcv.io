@@ -1,0 +1,24 @@
+.header{
+    display: flex;
+    background-color: rgb(194, 243, 122);
+    margin: 0px 200px;
+    border-radius: 10px;
+}
+.info{
+    display: flex;
+}
+h1{
+    color: rgb(3, 131, 131);
+    text-align: left;
+    text-underline-position: above;
+}
+img {
+    border: 10px solid rgb(132, 203, 26);
+    border-radius: 50%;
+    width: 200px;
+    height: 200px;
+    margin: 20px;
+}
+.infomation {
+    margin: 0px 50px;
+}
